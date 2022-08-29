@@ -31,17 +31,17 @@ canvas {
 
   position: absolute;
 
-  top: 10%;
+  top: 50%;
 
-  left: 10%;
+  left: 50%;
 
-  transform: translate(-90%, -90%);
+  transform: translate(-50%, -50%);
 
 }
 
 .image {
 
-  border-radius: 50%;
+  border-radius: 45%;
 
 }
 
@@ -65,7 +65,7 @@ canvas {
 
   font-family: 'Ubuntu Mono', monospace;
 
-  font-size: 2.0vw;
+  font-size: 2.2vw;
 
 }
 
