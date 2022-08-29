@@ -27,6 +27,17 @@ canvas {
   transform: translate(-50%, -50%);
 
 }
+.left {
+
+  position: absolute;
+
+  top: 10%;
+
+  left: 10%;
+
+  transform: translate(-90%, -90%);
+
+}
 
 .image {
 
@@ -54,7 +65,7 @@ canvas {
 
   font-family: 'Ubuntu Mono', monospace;
 
-  font-size: 2.2vw;
+  font-size: 2.0vw;
 
 }
 
@@ -98,7 +109,7 @@ canvas {
 
   body {
 
-    text-align: center;
+    text-align: left;
 
   }
 
